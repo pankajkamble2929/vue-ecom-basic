@@ -27,3 +27,11 @@ npm run dev
 ```sh
 npm run build
 ```
+## HomePage Design 
+![home](https://user-images.githubusercontent.com/31844394/228731719-a7cb59c2-b69e-4983-bc18-97556b1132eb.png)
+
+## LoginPage 
+![login](https://user-images.githubusercontent.com/31844394/228731880-e385d4e5-4adf-4458-8f59-c3b32b54bf70.png)
+
+## Dashboard - Add Product
+![add-product](https://user-images.githubusercontent.com/31844394/228732028-0e623058-2c5c-42d5-b03d-bfe726eaf13b.png)
